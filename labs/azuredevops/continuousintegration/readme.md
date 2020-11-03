@@ -129,7 +129,7 @@ In this lab, you will learn how to configure continuous integration (CI) and con
 
 1. Click **Edit**.
 
-    ![](images/edit.png)
+    ![](images/022.png)
 
 1. Make a minor cosmetic change, such as by tweaking the title of the document. Click **Commit**.
 
